@@ -1,0 +1,20 @@
+{
+    "Caremanager": {
+        "caremanagers": [
+            {
+            	"caraemanagerid": "C1",
+                "Providerid": ["P1", "P2", "P3"],
+                "Orgid":["Clinic A","Clinic B"]
+            },
+            {
+            	"caraemanagerid": "C2",
+                "Providerid": "P1",
+                "Orgid":"Clinic B"            },
+            {
+            	"caraemanagerid": "C3",
+                "Providerid": "P1",
+                "Orgid":"Clinic A"            }
+        ]
+    }
+}
+

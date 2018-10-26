@@ -1,0 +1,21 @@
+{
+    "Candidate": {
+        "candidates": [
+            {
+            	"candidateid": "X",
+                "Providerid": "P1",
+                "Orgid":"Clinic A"
+            },
+            {
+            	"candidateid": "Y",
+                "Providerid": "P1",
+                "Orgid":"Clinic B"
+            },
+            {
+            	"candidateid": "Z",
+                "Providerid": "P1",
+                "Orgid":"Clinic A"
+            }
+        ]
+    }
+}
